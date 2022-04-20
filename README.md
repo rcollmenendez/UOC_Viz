@@ -1,9 +1,9 @@
 # UOC_Viz
 
-**Estudios:** Máster universitario de Ciencia de Datos de la UOC
-**Asignatura:** (M2.859) Visualización de datos aula 2
-**Actividad:** PEC2 - Estudio de técnicas de visualización de datos
-**Estudiante:** Rubén Coll Menéndez
+- **Estudios:** Máster universitario de Ciencia de Datos de la UOC
+- **Asignatura:** (M2.859) Visualización de datos aula 2
+- **Actividad:** PEC2 - Estudio de técnicas de visualización de datos
+- **Estudiante:** Rubén Coll Menéndez
 
 ## Timeline - Marvel
 
